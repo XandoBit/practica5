@@ -1,6 +1,6 @@
 Sistemas y Tecnologías Web
 =========
-Práctica 5 SYTW: Acortador de URLs
+Práctica 5 SYTW: Estadísticas de Visitas al Acortador de URLs
 ---------
 Autores: Rushil Lakhani Lakhani & Adán Rafael López Lecuona.
 
